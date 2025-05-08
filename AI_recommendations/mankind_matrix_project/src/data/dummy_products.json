@@ -68,5 +68,40 @@
     "category": "AI Components",
     "price": 349.99,
     "description": "Add visual recognition capabilities to your projects"
+  },
+  {
+    "id": 11,
+    "name": "Augmented Reality Headset",
+    "category": "Consumer Electronics",
+    "price": 699.99,
+    "description": "Immersive AR experience with advanced tracking"
+  },
+  {
+    "id": 12,
+    "name": "Smart Home Hub",
+    "category": "Consumer Electronics",
+    "price": 199.99,
+    "description": "Central control for all your smart home devices"
+  },
+  {
+    "id": 13,
+    "name": "Neural Interface",
+    "category": "Advanced Computing",
+    "price": 3499.99,
+    "description": "Direct brain-computer interface for advanced applications"
+  },
+  {
+    "id": 14,
+    "name": "Quantum Encryption Module",
+    "category": "Security Products",
+    "price": 899.99,
+    "description": "Next-generation encryption using quantum principles"
+  },
+  {
+    "id": 15,
+    "name": "Drone AI Controller",
+    "category": "AI Components",
+    "price": 399.99,
+    "description": "Advanced autonomous control system for drones"
   }
 ]
