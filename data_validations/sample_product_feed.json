@@ -1,0 +1,79 @@
+[
+  {
+    "product_id":"SFXS-12345",
+    "name":"SpectraForce X900 Ultra",
+    "category":"GPUs",
+    "brand":"Mankind Tech",
+    "description":"High-performance GPU for gaming and AI applications",
+    "price":1299.99,
+    "currency":"USD",
+    "in_stock":true,
+    "specifications":{
+      "memory":"24 GB",
+      "clock_speed":"1.8 GHz",
+      "power_consumption":"350 W",
+      "cores":10240
+    },
+    "images":[
+      "sfxs_12345_1.jpg",
+      "sfxs_12345_2.jpg"
+    ]
+  },
+  {
+    "product_id":"QMS-7890",
+    "name":"QuantumMind System Pro",
+    "category":"AI Hardware",
+    "brand":"Mankind AI",
+    "description":"Enterprise AI computing system for deep learning",
+    "price":24999.99,
+    "currency":"USD",
+    "in_stock":true,
+    "specifications":{
+      "processors":8,
+      "memory":"128 GB",
+      "storage":"2 TB",
+      "performance":"500 TFLOPS"
+    },
+    "images":[
+      "qms_7890_1.jpg",
+      "qms_7890_2.jpg"
+    ]
+  },
+  {
+    "product_id":"invalid-id!",
+    "name":"EdgeNexus Platform",
+    "category":"Gaming",
+    "brand":"Mankind Edge",
+    "description":"Edge computing solution for AI workloads",
+    "price":-100.0,
+    "currency":"BTC",
+    "in_stock":"yes",
+    "specifications":{
+      "memory":"4GB",
+      "clock_speed":"1200 MHz",
+      "power_consumption":"15 W"
+    },
+    "images":[
+
+    ]
+  },
+  {
+    "product_id":"NXP-56789",
+    "name":"NeuraX Processor X1",
+    "category":"AI Hardware",
+    "brand":"Mankind Neural",
+    "description":"High-performance AI processor",
+    "price":5499.99,
+    "currency":"USD",
+    "in_stock":true,
+    "specifications":{
+      "cores":128,
+      "memory":"32 GB",
+      "bandwidth":"900 GB\/s",
+      "frequency":"1.5 GHz"
+    },
+    "images":[
+      "nxp_56789.jpg"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+2025-05-12 22:35:13,425 - ProductFeedValidator - INFO - ProductFeedValidator initialized with 12 categories
+2025-05-12 22:35:13,426 - ProductFeedValidator - INFO - Starting validation of file: sample_product_feed.json
+2025-05-12 22:35:13,430 - ProductFeedValidator - INFO - Loaded 4 product entries for validation
+2025-05-12 22:35:13,432 - ProductFeedValidator - INFO - Validation complete. Found errors in 1 products
+2025-05-12 22:35:13,433 - ProductFeedValidator - INFO - Cleaned data saved to cleaned_product_feed.csv
+2025-05-12 22:35:13,433 - ProductFeedValidator - INFO - Validation report saved to validation_report.md

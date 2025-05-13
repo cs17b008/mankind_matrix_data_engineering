@@ -1,0 +1,5 @@
+product_id,name,category,brand,description,price,currency,in_stock,specifications,images
+SFXS-12345,SpectraForce X900 Ultra,GPUs,Mankind Tech,High-performance GPU for gaming and AI applications,1299.99,USD,True,"{'memory': '24.00 GB', 'clock_speed': '1.80 GHz', 'power_consumption': '350.00 W', 'cores': 10240}","['sfxs_12345_1.jpg', 'sfxs_12345_2.jpg']"
+QMS-7890,QuantumMind System Pro,AI Hardware,Mankind AI,Enterprise AI computing system for deep learning,24999.99,USD,True,"{'processors': 8, 'memory': '128.00 GB', 'storage': '2048.00 GB', 'performance': '500 TFLOPS'}","['qms_7890_1.jpg', 'qms_7890_2.jpg']"
+invalid-id!,EdgeNexus Platform,Gaming,Mankind Edge,Edge computing solution for AI workloads,-100.0,BTC,True,"{'memory': '4.00 GB', 'clock_speed': '1.20 GHz', 'power_consumption': '15.00 W'}",[]
+NXP-56789,NeuraX Processor X1,AI Hardware,Mankind Neural,High-performance AI processor,5499.99,USD,True,"{'cores': 128, 'memory': '32.00 GB', 'bandwidth': '900 GB/s', 'frequency': '1.50 GHz'}",['nxp_56789.jpg']
