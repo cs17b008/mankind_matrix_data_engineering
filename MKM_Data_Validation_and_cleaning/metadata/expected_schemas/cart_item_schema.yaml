@@ -1,0 +1,14 @@
+required:
+- id
+- product_id
+- quantity
+
+optional:
+- price
+- last_updated
+- created_at
+- status
+
+disallowed:
+- temp_col
+- debug_flag
