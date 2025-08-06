@@ -1,0 +1,160 @@
+version: v1
+generated_at: '2025-07-23 17:23:29'
+tables:
+  address:
+    rename_columns:
+      id: address_id
+    standardize_units: {}
+    null_replacements: {}
+    case_formatting: {}
+    type_conversions:
+      created_at: TimestampType
+      updated_at: TimestampType
+  cart:
+    rename_columns:
+      id: cart_id
+    standardize_units: {}
+    null_replacements: {}
+    case_formatting: {}
+    type_conversions:
+      created_at: TimestampType
+      updated_at: TimestampType
+  cart_item:
+    rename_columns:
+      id: cart_item_id
+    standardize_units: {}
+    null_replacements: {}
+    case_formatting: {}
+    type_conversions:
+      created_at: TimestampType
+      updated_at: TimestampType
+  category:
+    rename_columns:
+      id: category_id
+    standardize_units: {}
+    null_replacements: {}
+    case_formatting: {}
+    type_conversions:
+      created_at: TimestampType
+      updated_at: TimestampType
+  inventories:
+    rename_columns:
+      id: inventories_id
+    standardize_units: {}
+    null_replacements: {}
+    case_formatting: {}
+    type_conversions:
+      created_at: TimestampType
+      updated_at: TimestampType
+  inventory_logs:
+    rename_columns:
+      id: inventory_logs_id
+    standardize_units: {}
+    null_replacements: {}
+    case_formatting: {}
+    type_conversions:
+      created_at: TimestampType
+  payment:
+    rename_columns:
+      id: payment_id
+    standardize_units: {}
+    null_replacements: {}
+    case_formatting: {}
+    type_conversions:
+      created_at: TimestampType
+      updated_at: TimestampType
+  payment_log:
+    rename_columns:
+      id: payment_log_id
+    standardize_units: {}
+    null_replacements: {}
+    case_formatting: {}
+    type_conversions:
+      created_at: TimestampType
+  price_history:
+    rename_columns:
+      id: price_history_id
+    standardize_units: {}
+    null_replacements: {}
+    case_formatting: {}
+    type_conversions:
+      change_date: TimestampType
+  product_images:
+    rename_columns: {}
+    standardize_units: {}
+    null_replacements: {}
+    case_formatting: {}
+    type_conversions: {}
+  product_specifications:
+    rename_columns: {}
+    standardize_units: {}
+    null_replacements: {}
+    case_formatting: {}
+    type_conversions: {}
+  products:
+    rename_columns:
+      id: products_id
+    standardize_units: {}
+    null_replacements: {}
+    case_formatting: {}
+    type_conversions:
+      created_at: TimestampType
+      updated_at: TimestampType
+  recently_viewed_products:
+    rename_columns:
+      id: recently_viewed_products_id
+    standardize_units: {}
+    null_replacements: {}
+    case_formatting: {}
+    type_conversions:
+      last_viewed_at: TimestampType
+      viewed_at: TimestampType
+  returned_items:
+    rename_columns:
+      id: returned_items_id
+    standardize_units: {}
+    null_replacements: {}
+    case_formatting: {}
+    type_conversions:
+      created_at: TimestampType
+      return_date: TimestampType
+      updated_at: TimestampType
+  reviews:
+    rename_columns:
+      id: reviews_id
+    standardize_units: {}
+    null_replacements: {}
+    case_formatting: {}
+    type_conversions:
+      created_at: TimestampType
+      updated_at: TimestampType
+  test_table:
+    rename_columns:
+      id: test_table_id
+    standardize_units: {}
+    null_replacements: {}
+    case_formatting: {}
+    type_conversions:
+      created_at: TimestampType
+  user_custom_attributes:
+    rename_columns: {}
+    standardize_units: {}
+    null_replacements: {}
+    case_formatting: {}
+    type_conversions: {}
+  users:
+    rename_columns:
+      id: users_id
+    standardize_units: {}
+    null_replacements: {}
+    case_formatting: {}
+    type_conversions:
+      create_time: TimestampType
+      update_time: TimestampType
+  wishlist:
+    rename_columns:
+      id: wishlist_id
+    standardize_units: {}
+    null_replacements: {}
+    case_formatting: {}
+    type_conversions: {}

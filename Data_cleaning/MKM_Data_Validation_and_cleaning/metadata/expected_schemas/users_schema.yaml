@@ -1,0 +1,14 @@
+required:
+- id
+- first_name
+- last_name
+- email
+
+optional:
+- created_at
+- updated_at
+- status
+
+disallowed:
+- temp_flag
+- legacy_user
